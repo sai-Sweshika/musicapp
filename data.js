@@ -1,7 +1,7 @@
 const data = [
     {
         id: "1",
-        Image: "./images/Adigaa.jpeg",
+        Image: "./Images/Adigaa.jpeg",
         title: "Adigaa",
         singers: "Karthik",
         song: "./Songs/Adigaa.mp3",
