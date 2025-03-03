@@ -43,7 +43,7 @@ const data = [
     },
     {
         id: "7",
-        Image: "./Images/Hanuman.jpeg",
+        Image: "./Images/hanuman.jpeg",
         title: "Hanuman",
         singers: "GowarHari, Saicharan Bhaskaruni",
         song: "./Songs/Hanuman Chalisa.mp3",
